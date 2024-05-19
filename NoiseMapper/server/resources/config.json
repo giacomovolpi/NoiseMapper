@@ -1,0 +1,26 @@
+{
+  "mapping": {
+    "bpGG": "F1_F2",
+    "3hI4": "F3_F4",
+    "Tvvr": "intersection",
+    "LmGw": "F5_F6",
+    "6zLh": "F7_F8_F9",
+    "wLL9": "F4_F6", 
+    "hWkm": "dispenser"
+  },
+  "unused" : {
+    "6Ls6": "room_6Ls6",
+    "hbcm": "room_hbcm",
+    "ekuu": "room_ekuu"
+  },
+  "layout": {
+    "room_name" : ["F1_F2", "F3_F4", "intersection", "F5_F6", "F7_F8_F9", "F4_F6", "dispenser"],
+    "x1" :  [28.0, 28.0, 28.0, 28.0, 28.0, 80.0, 126.0],
+    "x2" :  [80.0, 80.0, 80.0, 80.0, 80.0, 126.0, 168.0],
+    "y1" :  [4.0, 20.0, 36.0, 48.0, 64.0, 36.0, 36.0 ],
+    "y2" :  [20.0, 36.0, 48.0, 64.0, 80.0, 48.0, 48.0]
+  },
+  "unused_layout" : {
+    "room_name" : ["room_6Ls6", "room_hbcm", "room_ekuu"]
+  }
+}

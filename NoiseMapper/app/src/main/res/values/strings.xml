@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NoiseMapper</string>
+    <string name="main_text_button">Start to sense (DEBUG)</string>
+    <string name="dynamic_page">Dynamic page</string>
+    <string name="noise_map">Noise map</string>
+    <string name="text_main">Welcome to NoiseMapper!</string>
+    <string name="microphone_bluetooth_request_not_granted">You must grant the permission to use the microphone and bluetooth in order to use this app</string>
+    <string name="upper_text_noise_activity">Current noise level is</string>
+    <string name="upper_text_dynamic_page">You are now in room:</string>
+    <string name="room_name">No room found</string>
+    <string name="dynamic_page_button">Stop sensing</string>
+    <string name="noise_measurement">0.0</string>
+    <string name="db">db</string>
+    <string name="rssi">0.0</string>
+    <string name="noise_sensing_stop_button">Stop sensing</string>
+    <string name="update_map_button">Update Map</string>
+    <string name="kontakt_io_api_key">fHMdajEKOGTZanfNXEUJRlnZCsgDFYVd</string>
+    <string name="button_main_activity_text">View the noise map and start to sense!</string>
+    <string name="config_file_name">config.json</string>
+    <string name="pick_date">Pick date</string>
+    <string name="refresh_map">Refresh map</string>
+    <string name="db_level_no_sensing">0,0 dB</string>
+    <string name="graph_file_name">output.html</string>
+</resources>

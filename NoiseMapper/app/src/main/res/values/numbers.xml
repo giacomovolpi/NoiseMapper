@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="FAST_FLUSH_SAMPLES_WINDOW">5</integer>
+    <integer name="SLOW_FLUSH_SAMPLES_WINDOW">10</integer>
+    <integer name="TIMEOUT_CONNECTION">2000</integer>
+    <integer name="MILLISECONDS_IN_A_WEEK">604800000</integer>
+    <integer name="MILLISECONDS_IN_A_DAY">86400000</integer>
+    <integer name="AUDIO_ENCODING_BIT_RATE">705600</integer>
+    <integer name="AUDIO_SAMPLING_RATE">44100</integer>
+    <integer name="FAST_AUDIO_REFRESH_RATE">500</integer>
+    <integer name="SLOW_AUDIO_REFRESH_RATE">1500</integer>
+    <integer name="FAST_UPDATE_MAP_PERIOD">15000</integer>
+    <integer name="SLOW_UPDATE_MAP_PERIOD">30000</integer>
+    <integer name="DB_ADJUSTMENT">5</integer>
+</resources>

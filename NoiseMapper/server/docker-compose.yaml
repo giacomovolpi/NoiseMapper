@@ -1,0 +1,11 @@
+name: masss_server
+services:
+    msss_server:
+        container_name: MaSSS_Server
+        stdin_open: true
+        ports:
+            - 5002:5002
+        volumes:
+            - ./:/app
+        build: 
+            dockerfile: ./Dockerfile
